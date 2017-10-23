@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Teste<?php
+<title>Estoque da Gi<?php
       //Utiliza o a pagina do Fuseaction para alterar o titulo da pagina no navegador
       //echo ucfirst(Fuseaction);
     ?>
