@@ -33,7 +33,7 @@
                 </a>
               </td>
               <td>
-                <a href="index.php?page=roupa&action=apagar&id=<?php echo $row['id_roupa'];?>" onclick="return confirm('Tem certeza que deseja excluir o produto: \'<?php echo $row['nome_produto'];?>\'?')" title="Apagar <?php echo $row['nome'];?>">
+                <a href="index.php?page=roupa&action=apagar&id=<?php echo $row['id_roupa'];?>" onclick="return confirm('Tem certeza que deseja excluir o produto: \'<?php echo $row['nome'];?>\'?')" title="Apagar <?php echo $row['nome'];?>">
                   <img src="src/template/Includes/icone-apagar.png" width="18" height="18" />
                 </a>
               </td>

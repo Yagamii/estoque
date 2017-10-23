@@ -1,6 +1,6 @@
 <div class="container-fluid">
 
-  <div class="row row-offcanvas rowoffcanvas-left">
+  <div class="row row-offcanvas row-offcanvas-left">
     <?php require('src/template/Layouts/sidebar.php');?>
     <div class="container-fluid">
 
